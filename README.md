@@ -24,3 +24,6 @@ Passionate about software development, clean code, and building practical digita
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/SiddUrYrr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SiddUrYrr&stroke=f97316&background=713f12&ring=0891b2&fire=0891b2&currStreakNum=f97316&currStreakLabel=0891b2&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a>
+
+
+![snake gif](https://github.com/SiddUrYrr/SiddUrYrr/blob/output/github-snake-dark.svg)
